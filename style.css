@@ -1,0 +1,37 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.whole {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 450px;
+    height: 700px;
+    margin: auto;
+    border-radius: 20px;
+    margin-top: 100px;
+    box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.15);
+}
+
+.Image {
+    width: 400px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+.sub1 {
+    margin: auto;
+    width: 350px;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.sub2 {
+    width: 350px;
+    margin: auto;
+    font-size: 20px;
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+}
